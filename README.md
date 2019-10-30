@@ -1,0 +1,2 @@
+# bootstrapMessage
+封装bootstrap轻提示警示框alert组件
